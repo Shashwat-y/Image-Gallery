@@ -4,12 +4,13 @@
  
  // Your web app's Firebase configuration
  const firebaseConfig = {
-  apiKey: "AIzaSyBArzAsl7JVZD0xz-r6TInfLkclFdAEBO4",
-  authDomain: "new-gallery-51819.firebaseapp.com",
-  projectId: "new-gallery-51819",
-  storageBucket: "new-gallery-51819.appspot.com",
-  messagingSenderId: "595189184544",
-  appId: "1:595189184544:web:3c977bf1378f6417d42445"
+  apiKey: "AIzaSyC1_XfKtkTuXMkq059x4gPvwnAiOyR_1Ns",
+  authDomain: "image-gallery-b625f.firebaseapp.com",
+  projectId: "image-gallery-b625f",
+  storageBucket: "image-gallery-b625f.appspot.com",
+  messagingSenderId: "861133406802",
+  appId: "1:861133406802:web:e4e0ebd895512bf9fe158b",
+  measurementId: "G-4ZH6BQL6DH"
 };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
