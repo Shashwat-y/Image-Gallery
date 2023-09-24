@@ -18,4 +18,3 @@ const useFireStore = (collection) => {
     return{ docs }
 }
 export default useFireStore;
-
